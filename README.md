@@ -1,1 +1,1 @@
-由于中文没有出版《Practical Social Engineering》我利用机翻和自己的理解改动了部分呢绒
+由于中文没有出版《Practical Social Engineering》我利用机翻和自己的理解改动了部分内容，纯爱好。
